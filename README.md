@@ -20,6 +20,6 @@ You can view a live preview of this template on [Kasper](https://ahmedmohamedabd
 
 <div align=center>
 
-![Kasper](./screenshot.png)
+![Kasper](./screenshot.jpg)
 
 </div>
