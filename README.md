@@ -16,4 +16,10 @@ You can view the video tutorial on [YouTube](https://www.youtube.com/playlist?li
 
 ## Live Preview
 
-You can view a live preview of this template on [Kasper]().
+You can view a live preview of this template on [Kasper](https://ahmedmohamedabdelaty.github.io/Kasper-HTML-CSS-Template/).
+
+<div align=center>
+
+![Kasper](./screenshot.png)
+
+</div>
